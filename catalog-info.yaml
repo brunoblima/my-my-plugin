@@ -5,5 +5,5 @@ metadata:
   description: Descrição
 spec:
   lifecycle: production
-  owner: my-team
+  owner: bbastosl_petro
   type: service
